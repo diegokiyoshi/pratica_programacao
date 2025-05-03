@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TesteComparador.java&apos; to &apos;ByteBank/src/(default package)&apos;&#x0D;&#x0A;- Original project: &apos;ByteBank&apos;&#x0D;&#x0A;- Destination element: &apos;ByteBank/src/(default package)&apos;&#x0D;&#x0A;- Original element: &apos;TesteComparador.java&apos;" description="Copy compilation unit" destination="/src&lt;" element1="/src&lt;{TesteComparador.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1562455979630" units="1" version="1.0"/>
+</session>
